@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/882b93ca-f13d-498d-b9f4-8bf3e0cd13a7" />
 # Deloitte---Data-Analytics-
 📊 Super Store Sales Dashboard (Power BI)
 📝 Project Overview
