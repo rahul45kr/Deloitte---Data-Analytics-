@@ -6,8 +6,6 @@ The dashboard provides insights into sales performance, profit trends, customer 
 
 🎯 Objectives
 
-<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/575ad02c-ec6e-4814-9fbf-b78869f3c326" />
-
 Analyze sales and profit performance
 
 
